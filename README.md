@@ -30,7 +30,8 @@
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <!--   https://devicon.dev/ -->
 </div>  
-<div>
+<br>
+<div> 
   <a href="https://www.youtube.com/channel/UCscX7geb0m-0GaNmD7EPScw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/romulo-oliveira-azevedo-98419b54/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://bitbucket.org/RomuloDevSecOps/workspace/repositories" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>  
