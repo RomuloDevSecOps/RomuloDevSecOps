@@ -3,7 +3,7 @@
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romuloti&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romuloti&layout=compact&langs_count=16&theme=dark"/> -->
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=RomuloDevSecOps&show_icons=true&theme=dark" />
-  <img height="180em" width="400em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomuloDevSecOps&langs_count=4&theme=dark" />        
+  <img height="180em" width="390em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomuloDevSecOps&langs_count=4&theme=dark" />        
   </a>
 </div> <br>
 <div>
