@@ -1,9 +1,9 @@
-<div>
+<!-- <div>
   <a href="https://github.com/RomuloDevSecOps"></a>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romuloti&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romuloti&layout=compact&langs_count=16&theme=dark"/> -->
-</div>
-  <div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romuloti&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romuloti&layout=compact&langs_count=16&theme=dark"/>
+</div> -->
+<div style="display: inline_block">
   <img align="center" alt="Romulo-Vscode" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Romulo-PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Romulo-Laravel" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />  
