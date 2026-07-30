@@ -1,8 +1,11 @@
-<!-- <div> -->
-  <!-- <a href="https://github.com/RomuloDevSecOps"></a> -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romuloti&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romuloti&layout=compact&langs_count=16&theme=dark"/> -->
-<!-- </div> -->
+<div>
+  <a href="https://github.com/RomuloDevSecOps">
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romuloti&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romuloti&layout=compact&langs_count=16&theme=dark"/> -->
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=RomuloDevSecOps&show_icons=true&theme=dark" />
+  <img height="180em" width="560em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomuloDevSecOps&langs_count=4&theme=dark" />        
+  </a>
+</div> <br>
 <div>
   <img align="center" alt="Romulo-Vscode" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Romulo-PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
